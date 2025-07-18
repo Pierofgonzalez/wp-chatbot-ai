@@ -1,0 +1,29 @@
+#wp-chatbot-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 300px;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-family: sans-serif;
+}
+
+#wp-chatbot-messages {
+    height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#wp-chatbot-input {
+    width: 75%;
+    padding: 5px;
+}
+
+#wp-chatbot-send {
+    width: 20%;
+    padding: 5px;
+}

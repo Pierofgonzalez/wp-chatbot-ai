@@ -3,7 +3,7 @@
  * Plugin Name:       WP Chatbot AI
  * Description:       Chatbot IA para WordPress usando una API gratuita.
  * Version:           1.0.0
- * Author:            WP Plugin Architect
+ * Author:            pierofigerigonzalez
  * Author URI:        https://chatgpt.com/g/g-6cqBCrKTn-wp-plugin-architect
  * Text Domain:       wp-chatbot-ai
  * License:           GPLv2 or later
